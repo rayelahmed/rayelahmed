@@ -1,4 +1,4 @@
-[<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h1eGJvcGdod29heDB3dmVib2J3YjI3dzl6bTZpdDY4czNkNnJxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h1eGJvcGdod29heDB3dmVib2J3YjI3dzl6bTZpdDY4czNkNnJxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="/">
 
 - 👋 Hi, I’m @rayelahmed
 - 👀 I’m interested in ...
