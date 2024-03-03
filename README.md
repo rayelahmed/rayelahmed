@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h1eGJvcGdod29heDB3dmVib2J3YjI3dzl6bTZpdDY4czNkNnJxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="/">
+<canvas id="demogl" class="playerCanvas" tabindex="0" width="1296" height="1080"></canvas>
 
 - 👋 Hi, I’m @rayelahmed
 - 👀 I’m interested in ...
