@@ -59,7 +59,7 @@
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rayelahmed)](https://git.io/streak-stats)
 
-![Rayel Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayelahmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Rayel Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayelahmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=react&border_radius=10)
 
 
 <div align=center>
