@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hi+👋,+I'm+Rayel+Ahmed!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <h1 align="center">Hi 👋, I'm Rayel Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
 
